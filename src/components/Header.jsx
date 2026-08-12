@@ -1,7 +1,7 @@
 export default function Header(){
     return(
         <>
-        <div className="hero"></div>
+    <div className="hero"></div>
   <h1>Moomu</h1>
   <span className="job-title">Frontend Developer</span>
   <span className="web-title">moomu.website</span>
